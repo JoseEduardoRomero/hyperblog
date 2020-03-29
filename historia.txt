@@ -7,6 +7,4 @@ Naci en Tehuacán Puebla
 A veces soy muy distraido pero cumplo con las cosas que me
 suelen dejar
 
-La historia de mi vida.
-
-Nueva linea de ejemplo
+Este es un buen ejemplo de github
